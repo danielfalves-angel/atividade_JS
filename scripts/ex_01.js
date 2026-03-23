@@ -1,4 +1,4 @@
-function somar_num() {
+function somarNum() {
     let soma = 0;
     let continuar = true;
     while (continuar) {
