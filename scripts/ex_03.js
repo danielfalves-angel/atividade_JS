@@ -16,4 +16,9 @@ function balançoGeral(){
     console.log(gastosAn);
     console.log(saldoFiAn);
 
+    if (saldoFiAn > 0){
+        alert("A empresa saiu no lucro");
+    } else {
+        alert("A empresa saiu no prejuizo");
+    }
 }
