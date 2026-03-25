@@ -5,6 +5,11 @@ button{
     border-start-end-radius:80%;
     background-color: rgb(100, 220, 20);
 }
+
 body{
     background-color: rgb(121, 91, 63) ;
+}
+
+.flex{
+    display: flex;
 }
