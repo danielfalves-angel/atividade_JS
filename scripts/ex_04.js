@@ -1,8 +1,8 @@
-function quatroValores(){
+function quatroValores() {
     let numeros = [];
-    for(i = 0; i < 4; i++){
+    for (i = 0; i < 4; i++) {
         numeros[i] = parseInt(prompt("digte um numero"));
     }
-    numeros.sort((a,b) => b - a);
+    numeros.sort((a, b) => b - a);
     alert(numeros);
 }

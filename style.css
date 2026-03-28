@@ -1,16 +1,16 @@
-button{
+button {
     height: 50px;
     width: 100px;
-    border-end-start-radius:80%;
-    border-start-end-radius:80%;
+    border-end-start-radius: 80%;
+    border-start-end-radius: 80%;
     background-color: rgb(100, 220, 20);
 }
 
-body{
-    background-color: rgb(10, 59, 0) ;
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+body {
+    background-color: rgb(10, 59, 0);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
 }
 
-.flex{
+.flex {
     display: flex;
 }
